@@ -15,4 +15,8 @@ public class Match {
     public static void main(String[] args){
         getLastRateBySourceAndDest();
     }
+
+    public static int goalsNumber(String team , int year){
+
+    }
 }
